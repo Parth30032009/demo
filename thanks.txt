@@ -1,4 +1,8 @@
 New Name
 Second Name from my_branch
 Second Name
+<<<<<<< HEAD
 Third Name
+=======
+Third Name form copy editor
+>>>>>>> publisher/main
